@@ -1,5 +1,4 @@
 # AstralImagingSystem
-Imaging System for Capturing Astral Environments
+Imaging System for Capturing Astral Entities, Environments and Interference.
 
-Born out of a severe case of psychotronic and astral harassment. 
-Under Active Development. 
+Born out of a severe case of psychotronic and astral harassment, this is an unproven concept under development. 
